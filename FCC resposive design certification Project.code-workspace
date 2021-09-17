@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "FCC_Resposive_Cert_Project"
+		},
+		{
+			"path": "portfolio"
+		},
+		{
+			"path": "js_documentation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}
